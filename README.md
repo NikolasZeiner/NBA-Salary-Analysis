@@ -1,4 +1,3 @@
-# NBA-Salary-Analysis
 # NBA Salary & Performance Analysis
 **Tools:** Python | R | SQL | Power BI | Excel  
 **Data:** NBA 2022-23 Season Stats & Salaries
